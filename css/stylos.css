@@ -1,0 +1,42 @@
+body{
+    background-color: black;
+    
+}
+.titulo{
+    text-align: center;
+    position: relative;
+    color: aliceblue;
+   
+}
+    
+
+.reloj {
+    color: limegreen;
+    font-size: 4rem;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+.clock {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.time {
+    font-size: 48px;
+    color: white;
+    background: black;
+    padding: 20px;
+    border-radius: 5px;
+    display: inline-block;
+}
+
+.buttons {
+    margin-top: 20px;
+}
+
+button {
+    margin: 0 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+}
+
